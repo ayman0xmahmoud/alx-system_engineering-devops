@@ -1,1 +1,1 @@
-#This script displays the content of the current working directory
+This directory contains a set of basic shell scripts 
