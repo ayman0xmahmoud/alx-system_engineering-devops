@@ -1,2 +1,2 @@
 #!/bin/bash
-find /home/user/files -type f -name "[:upper:]*" -exec cp {} /home/user/uppercase_files \;
+find /home/user/files -type f -name "[:upper:]*" -exec cp {} /tmp/u \;
