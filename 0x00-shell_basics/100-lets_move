@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -r *[[:upper:]]* /tmp/u 
+find /home/user/files -type f -name "[:upper:]*" -exec cp {} /tmp/u \;
